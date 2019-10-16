@@ -7,8 +7,8 @@ local units = {
     {title="Ensemble",moduleName="StereoEnsemble",keywords="modulate, pitch"},
     {title="Flanger",moduleName="Flanger",keywords="modulate, pitch"},
 
-    -- {category="Filtering"},
-    -- {title="Ladder BPF",moduleName="BespokeBPF",keywords="filter"},
+    {category="Filtering"},
+    {title="Ladder BPF",moduleName="BespokeBPF",keywords="filter"},
     -- {title="Scorpio Vocoder", moduleName="Scorpio", keywords="filter, modulate"},
 
     {category="Modulation"},
